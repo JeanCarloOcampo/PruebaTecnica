@@ -3,7 +3,7 @@ package com.carvajal.wishlist.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 import java.time.LocalDateTime;
-
+//si
 @Entity
 @Table(name = "historico_lista_deseos")
 @Data
